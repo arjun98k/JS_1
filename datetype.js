@@ -1,0 +1,1 @@
+"use strict"; // trst all js code  as newer version
