@@ -3,6 +3,11 @@
 
 console.log("i love shri")
 
+let surname = "kandekar"
+let age = 23
+let isloggedin = false
+let state
+
 // number => 2 to power 53
 // bigint
 // string => ""
@@ -16,3 +21,4 @@ console.log("i love shri")
 
 console.log(typeof undefined)
 console.log(typeof null)
+console.log(typeof surname)
