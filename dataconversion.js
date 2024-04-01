@@ -1,1 +1,2 @@
-console.log("april foola banya")
+ var adi = "arjun"
+console.log(typeof  adi )
