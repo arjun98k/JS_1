@@ -16,3 +16,4 @@ let RandomNumber = 98
 let StringNumber = String(RandomNumber)
 console.log(StringNumber)
 console.log(typeof StringNumber)
+console.log(typeof StringNumber)
